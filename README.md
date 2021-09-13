@@ -7,7 +7,7 @@
 ### About Me: 
 
 ```javascript
-const Humza = {
+const humza = {
   languages: [JavaScript, Java, Python, SQL, HTML/CSS],
   frameworks: [React, Flask, Spring Boot, JUnit, Bootstrap],
   tools: [AWS, Git, Jira, VS Code, IntelliJ],
