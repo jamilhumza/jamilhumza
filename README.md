@@ -1,17 +1,14 @@
 <h2> Hello there! </h2>
 <img align='right' src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEuzrjZgoGpzsDWb714Vzr-8nWrL4jaMan7g&usqp=CAU">
-<p><em>-Chemical Engineering student at the <a href="https://www.ucalgary.ca/">University of Calgary</a> 
-</br>-Aspiring Software Engineer
+I am a software engineer based in Calgary, Canada. Some of my hobbies include Basketball, Cricket, fitness, and gaming. 
 </em></p>
 
-### About Me: 
-
-```javascript
-const humza = {
+### My skills: 
+```python
+{
   languages: [JavaScript, Java, Python, SQL, HTML/CSS],
-  frameworks: [React, Flask, Spring Boot, JUnit, Bootstrap],
-  tools: [AWS, Git, Jira, VS Code, IntelliJ],
-  interests: [Fitness, NBA, Coding, Philosophy]
+  frameworks: [React, Node.js, Express.js, Flask],
+  tools: [AWS, Docker, Git, Jira]
 }
 ```
 <e>I love connecting with people in the tech space, feel free to reach out and say hello!</e>
